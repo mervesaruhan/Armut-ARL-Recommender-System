@@ -1,0 +1,1 @@
+The dataset used consists of services received by customers and the categories of these services. It includes the date and time information for each service received. Using the dataset, which contains the users who received services and the services and categories they received, a product recommendation system was created with Association Rule Learning.
